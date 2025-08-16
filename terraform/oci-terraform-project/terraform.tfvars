@@ -1,7 +1,0 @@
-region = "us-ashburn-1"
-tenancy_ocid = "your_tenancy_ocid"
-user_ocid = "your_user_ocid"
-fingerprint = "your_fingerprint"
-private_key_path = "path/to/your/private_key.pem"
-pass_phrase = "your_pass_phrase"
-ssh_public_key = "path/to/your/ssh_public_key.pub"
